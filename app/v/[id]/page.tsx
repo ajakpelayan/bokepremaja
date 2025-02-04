@@ -218,12 +218,12 @@ const jsonLd = {
                         </Table>
                     </div>
                 </CardContent>
+<Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w264x294&u=http%3A%2F%2Fwww.juicyads.rocks"/>
             </Card>
             <h2 className="text-2xl font-bold text-center my-4">
                 Related Video {file.title}
             </h2>
             <SearchCardList query={file.title.split(" ")[2]} />
         </div>
-<Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w264x294&u=http%3A%2F%2Fwww.juicyads.rocks"/>
     );
 }
